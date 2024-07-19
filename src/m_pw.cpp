@@ -765,7 +765,7 @@ void M_PasswordInit(void)
 	passwords.emplace_back(f_bighead, "V+YkwthNUePKS7zs5uB90VwN6Jeqgl+1r663U5zSGOEIxAO6BoWipzZoxa5H//LM+5Ag9GIGRnEcLbU21hjGfQ==");
 	passwords.emplace_back(f_4thgear, "zRMhR+s27VTYE0jgFf2l+PX51N3qJPvZ3oWuM/71oUaKY5zyQ2y7WIrIb464MFWn4IsK2P5rShsR9MotC/9ojQ==");
 	passwords.emplace_back(f_shittysigns, "yd02TPSLRgBydXlkZaEJABqegGjfJfn1aIMODfc2CC5ymJ4ydG7FblW20CH6vbo1IB1X9eBKJShuunPBClnWOQ==");
-	passwords.emplace_back(f_tastelesstaunts, "4QfCuCG0/7z5U5A1hxqlqx83uQTGmQ1aaWPBQ8pqQvw9KRGvxxiDq9UF0N24fDlu0+XYksgkPHJg4A5h5aEQiw==");
+	passwords.emplace_back(f_tastelesstaunts, "JGFyZ29uMmlkJHY9MTkkbT0xNix0PTIscD0xJE1FdzBjbXhMZlhzNVlYazJKMVpLVXckTEcyMThYWGJnRHZhaVE=");
 	passwords.emplace_back(f_devmode, "ybYqLUlREa9TJqV0uftxqGL8jPR1U+uEgrff/jast0kCfeIdzY15VxjveSZho8GOjfRuC3Zt4aJQTvhJcPAhkw==");
 	passwords.emplace_back(f_proceed, "GZPKJsa++Tt134yS3eBKdP+8vdAHB1thwK2ys6VDfFxcIRtABtM9j4qt8WULFrI+KxCSYMZ6K0mwt5BVzcvvuw==");
 	passwords.emplace_back(f_colors, "aSk8dw6FzJtTEmovh8fVEtUBpu6lj3QlRT/B5lwiEhAw8dAhRBQLdvtYlPaQcZISWI4wneAfAo6w5d6uf5r++g==");
